@@ -8,7 +8,8 @@ title: iBooklet
 subtitle: 好记性不如烂笔头
 description:
 author: iBooklet
-language: en-US
+#language: en-US
+language: zh-Hans
 timezone:
 
 # URL
@@ -64,10 +65,20 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-#theme: landscape
-theme: yilia
+#theme: yilia
+theme: next
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type:
+
+# Social links
+social:
+  GitGub: https://github.com/liwenqiu
+  Weibo: http://weibo.com/liwenqiu
+
+duoshuo_shortname: ibooklet
+
+creative_commons: by-nc-sa
+
