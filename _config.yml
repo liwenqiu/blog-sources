@@ -71,7 +71,11 @@ theme: next
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: rsync
+  host: arale
+  user: liwenqiu
+  root: /home/liweniqu/www/blog/
+  delete: true
 
 # Social links
 social:
