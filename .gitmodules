@@ -1,6 +1,0 @@
-[submodule "themes/yilia"]
-	path = themes/yilia
-	url = https://github.com/liwenqiu/hexo-blog-theme.git
-[submodule "themes/next"]
-	path = themes/next
-	url = https://github.com/iissnan/hexo-theme-next.git
