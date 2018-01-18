@@ -9,7 +9,7 @@ subtitle: 好记性不如烂笔头
 description:
 author: iBooklet
 #language: en-US
-language: zh-Hans
+language: en
 timezone:
 
 # URL
@@ -67,6 +67,7 @@ pagination_dir: page
 ## Themes: http://hexo.io/themes/
 #theme: yilia
 theme: next
+#theme: maupassant
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
